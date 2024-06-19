@@ -10,7 +10,7 @@ while True:
     elif opc==2:
         opcion_2()
     elif opc==3:
-        pass
+        opcion_3()
     elif opc==4:
         pass
     else:
